@@ -4,6 +4,7 @@ int main()
 {
  int k, n, m;
  scanf("%d", &k);
+ int dupa;
  int wynik;
  for(int i=0; i<k; i++)
  {
